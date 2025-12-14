@@ -504,28 +504,28 @@ export default function App() {
               <div>
                 <h4 className="text-stone-800 dark:text-stone-100 font-bold mb-4">Resources</h4>
                 <ul className="space-y-2 text-stone-600 dark:text-stone-500 text-sm">
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">ABC Rules 2023</a></li>
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">AWBI Website</a></li>
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">Emergency Contacts</a></li>
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">Legal Rights</a></li>
+                  <li><a href="https://cdnbbsr.s3waas.gov.in/s369dafe8b58066478aea48f3d0f384820/uploads/2025/08/202508071431358536.pdf" className="hover:text-emerald-600 dark:hover:text-emerald-400">ABC Rules 2023</a></li>
+                  <li><a href="https://awbi.gov.in/" className="hover:text-emerald-600 dark:hover:text-emerald-400">AWBI Website</a></li>
+                  <li><a href="#issue" className="hover:text-emerald-600 dark:hover:text-emerald-400">Emergency Contacts</a></li>
+                  <li><a href="#issue" className="hover:text-emerald-600 dark:hover:text-emerald-400">Legal Rights</a></li>
                 </ul>
               </div>
               <div>
                 <h4 className="text-stone-800 dark:text-stone-100 font-bold mb-4">Company</h4>
                 <ul className="space-y-2 text-stone-600 dark:text-stone-500 text-sm">
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">About Us</a></li>
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">Careers</a></li>
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">Privacy Policy</a></li>
-                  <li><a href="#" className="hover:text-emerald-600 dark:hover:text-emerald-400">Contact</a></li>
+                  <li><a href="#issue" className="hover:text-emerald-600 dark:hover:text-emerald-400">About Us</a></li>
+                  <li><a href="#community" className="hover:text-emerald-600 dark:hover:text-emerald-400">Careers</a></li>
+                  <li><a href="#issue" className="hover:text-emerald-600 dark:hover:text-emerald-400">Privacy Policy</a></li>
+                  <li><a href="#issue" className="hover:text-emerald-600 dark:hover:text-emerald-400">Contact</a></li>
                 </ul>
               </div>
             </div>
             <div className="mt-12 pt-8 border-t border-stone-200 dark:border-stone-900 flex flex-col md:flex-row justify-between items-center text-stone-500 text-sm">
               <p>&copy; 2024 Pawsitive Coexistence. All rights reserved.</p>
               <div className="flex space-x-6 mt-4 md:mt-0">
-                 <a href="#" className="hover:text-stone-900 dark:hover:text-stone-400">Twitter</a>
-                 <a href="#" className="hover:text-stone-900 dark:hover:text-stone-400">LinkedIn</a>
-                 <a href="#" className="hover:text-stone-900 dark:hover:text-stone-400">Instagram</a>
+                 <a href="https://x.com/" className="hover:text-stone-900 dark:hover:text-stone-400">X (formally Twitter)</a>
+                 <a href="https://in.linkedin.com/" className="hover:text-stone-900 dark:hover:text-stone-400">LinkedIn</a>
+                 <a href="https://www.instagram.com/" className="hover:text-stone-900 dark:hover:text-stone-400">Instagram</a>
               </div>
             </div>
           </div>
