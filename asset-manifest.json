@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pawsafe-Pawsitive_Coexistence/static/css/main.c537209b.css",
-    "main.js": "/Pawsafe-Pawsitive_Coexistence/static/js/main.9ddaad9a.js",
-    "static/js/453.1d164268.chunk.js": "/Pawsafe-Pawsitive_Coexistence/static/js/453.1d164268.chunk.js",
-    "index.html": "/Pawsafe-Pawsitive_Coexistence/index.html",
-    "main.c537209b.css.map": "/Pawsafe-Pawsitive_Coexistence/static/css/main.c537209b.css.map",
-    "main.9ddaad9a.js.map": "/Pawsafe-Pawsitive_Coexistence/static/js/main.9ddaad9a.js.map",
-    "453.1d164268.chunk.js.map": "/Pawsafe-Pawsitive_Coexistence/static/js/453.1d164268.chunk.js.map"
+    "main.css": "/PawSafe/static/css/main.c537209b.css",
+    "main.js": "/PawSafe/static/js/main.2d929229.js",
+    "static/js/453.1d164268.chunk.js": "/PawSafe/static/js/453.1d164268.chunk.js",
+    "index.html": "/PawSafe/index.html",
+    "main.c537209b.css.map": "/PawSafe/static/css/main.c537209b.css.map",
+    "main.2d929229.js.map": "/PawSafe/static/js/main.2d929229.js.map",
+    "453.1d164268.chunk.js.map": "/PawSafe/static/js/453.1d164268.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c537209b.css",
-    "static/js/main.9ddaad9a.js"
+    "static/js/main.2d929229.js"
   ]
 }
