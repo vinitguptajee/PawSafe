@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PawSafe/static/css/main.c537209b.css",
-    "main.js": "/PawSafe/static/js/main.2d929229.js",
+    "main.js": "/PawSafe/static/js/main.d624b4f1.js",
     "static/js/453.1d164268.chunk.js": "/PawSafe/static/js/453.1d164268.chunk.js",
     "index.html": "/PawSafe/index.html",
     "main.c537209b.css.map": "/PawSafe/static/css/main.c537209b.css.map",
-    "main.2d929229.js.map": "/PawSafe/static/js/main.2d929229.js.map",
+    "main.d624b4f1.js.map": "/PawSafe/static/js/main.d624b4f1.js.map",
     "453.1d164268.chunk.js.map": "/PawSafe/static/js/453.1d164268.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c537209b.css",
-    "static/js/main.2d929229.js"
+    "static/js/main.d624b4f1.js"
   ]
 }
