@@ -153,7 +153,7 @@ const Navbar = ({ isDarkMode, toggleTheme }) => {
         <div className="flex items-center justify-between h-20">
           <div className="flex items-center space-x-2">
             <Shield className="w-8 h-8 text-emerald-700 dark:text-emerald-500" />
-            <span className="text-2xl font-bold text-stone-800 dark:text-stone-100 tracking-tight font-serif">SafeStreet</span>
+            <span className="text-2xl font-bold text-stone-800 dark:text-stone-100 tracking-tight font-serif">PawSafe</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
@@ -251,7 +251,7 @@ export default function App() {
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4">
                   <Button primary>
-                    <Download className="w-5 h-5" /> Get SafeStreet App
+                    <Download className="w-5 h-5" /> Get PawSafe App
                   </Button>
                   <Button>
                     <BookOpen className="w-5 h-5" /> Read Guidelines
@@ -372,7 +372,7 @@ export default function App() {
                   <span className="text-emerald-700 dark:text-emerald-500">Safer Communities</span>
                 </h2>
                 <p className="text-stone-600 dark:text-stone-400 text-lg mb-8">
-                  The SafeStreet app connects residents, security guards, and animal welfare organizations to manage the ecosystem effectively.
+                  The PawSafe app connects residents, security guards, and animal welfare organizations to manage the ecosystem effectively.
                 </p>
                 
                 <div className="space-y-8">
@@ -475,7 +475,7 @@ export default function App() {
                 <div className="absolute top-0 right-0 p-12 opacity-10 transform rotate-12">
                    <Users className="w-64 h-64 text-emerald-100" />
                 </div>
-                <h3 className="text-3xl font-bold text-white mb-4 relative z-10 font-serif">Start a SafeStreet Chapter</h3>
+                <h3 className="text-3xl font-bold text-white mb-4 relative z-10 font-serif">Start a PawSafe Chapter</h3>
                 <p className="text-emerald-100 max-w-2xl mx-auto mb-8 relative z-10 font-light">
                   Empower your Gated Community or University with the tools to manage dog-human conflict scientifically and humanely.
                 </p>
@@ -495,7 +495,7 @@ export default function App() {
               <div className="col-span-1 md:col-span-2">
                 <div className="flex items-center space-x-2 mb-4">
                   <Shield className="w-6 h-6 text-emerald-700 dark:text-emerald-500" />
-                  <span className="text-xl font-bold text-stone-800 dark:text-stone-100 font-serif">SafeStreet</span>
+                  <span className="text-xl font-bold text-stone-800 dark:text-stone-100 font-serif">PawSafe</span>
                 </div>
                 <p className="text-stone-600 dark:text-stone-500 max-w-sm">
                   Bridging the gap between humans and dogs. Based on the guidelines for Prevention and Management of Dog-Human Conflicts.
